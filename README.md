@@ -3,8 +3,7 @@
 ## Overview
 In this study, we explore and analyse the data from titanic dataset. By this tragedy many people died, however, some people could still survive during the shipwreck! This dataset, including 15 columns including some information such as gender, age distribution and the residency-class of passengers. By classification, we may undestand if the survival of the passengers might have been dependent on their residency-classes, age or their genders.
 
-Source of dataset: The Dataset of Titanic (as a csv. file) is available on the Kaggle.com. you may also find it under the projects profile.
-
+Source of dataset: The Dataset of Titanic (as a csv. file) is available on the Kaggle.com. you may also find it under the project's profile.
 
 
 There is female and male gender identified and here is the distribution of total number of passengers based on the gender:
@@ -13,6 +12,7 @@ There is female and male gender identified and here is the distribution of total
 Clearly, there were more male passengers.
 
 ![image](https://user-images.githubusercontent.com/64262003/115146332-5ba36a80-a056-11eb-8b51-875813677732.png)
+
 In this line, we can observe the proportion of survivals vs. dead passengers based on the gender classification:
 ![image](https://user-images.githubusercontent.com/64262003/115146538-319e7800-a057-11eb-8031-6f1503956a43.png)
 
