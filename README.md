@@ -10,6 +10,7 @@ Source of dataset: The Dataset of Titanic (as a csv. file) is available on the K
 There is female and male gender identified and here is the distribution of total number of passengers based on the gender:
 
 ![image](https://user-images.githubusercontent.com/64262003/115146297-2e56bc80-a056-11eb-82ba-fb6a8daee5b6.png)
+Clearly, there were more male passengers.
 
 ![image](https://user-images.githubusercontent.com/64262003/115146332-5ba36a80-a056-11eb-8b51-875813677732.png)
 In this line, we can observe the proportion of survivals vs. dead passengers based on the gender classification:
