@@ -13,7 +13,7 @@ Clearly, there were more male passengers.
 
 In this line, we can observe the proportion of survivals vs. dead passengers based on the gender classification:
 ![image](https://user-images.githubusercontent.com/64262003/115146538-319e7800-a057-11eb-8031-6f1503956a43.png)
-However, the total number of male passengers were higher but its number of dead is obviously lower. They might be dependent on the distribution of females's age distribution or their ability to swim or their endurance against cold/freezing water after falling into water.
+The number of dead male passengers were also higher in comparison to female ones.
 
 A facet.map (or a box-plot) may help us to see how the age of mentioned classifications distributed:
 
