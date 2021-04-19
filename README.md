@@ -8,13 +8,12 @@ Source of dataset: The Dataset of Titanic (as a csv. file) is available on the K
 
 There is female and male gender identified and here is the distribution of total number of passengers based on the gender:
 
-![image](https://user-images.githubusercontent.com/64262003/115146297-2e56bc80-a056-11eb-82ba-fb6a8daee5b6.png)
-Clearly, there were more male passengers.
-
 ![image](https://user-images.githubusercontent.com/64262003/115146332-5ba36a80-a056-11eb-8b51-875813677732.png)
+Clearly, there were more male passengers.
 
 In this line, we can observe the proportion of survivals vs. dead passengers based on the gender classification:
 ![image](https://user-images.githubusercontent.com/64262003/115146538-319e7800-a057-11eb-8031-6f1503956a43.png)
+However, the total number of male passengers were higher but its number of dead is obviously lower. They might be dependent on the distribution of females's age distribution or their ability to swim or their endurance against cold/freezing water after falling into water.
 
 A facet.map (or a box-plot) may help us to see how the age of mentioned classifications distributed:
 
